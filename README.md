@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @NtandoBadla
-- 👀 I’m interested in advancing my skills as a software developer
-- 🌱 I’m currently learning Application development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ntandobadla1@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a quiet and lazy sometimes
+# 👋 Hi, I’m Ntando Badla
 
-<!---
-NtandoBadla/NtandoBadla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍🎓 I’m a graduate in ICT: Application Development from Walter Sisulu University.
+- 💻 I’m an aspiring software developer passionate about building real-world solutions.
+- 🚀 I’m constantly growing my skills in software engineering and modern development practices.
+- 🛠️ **Tech Stack:**  
+  - **Languages:** Java, PHP, HTML, CSS, JavaScript   
+  - **Databases:** MySQL,  
+  - **Tools & Platforms:**  GitHub, Visual Studio Code 
+- 🤝 I’m open to collaborating on software projects, especially in web or mobile development.
+- 📫 How to reach me: **ntandobadla1@gmail.com**
+- 😄 Pronouns: He/Him
+- 💡 Fun fact: I'm a quiet thinker and sometimes a bit lazy—but I always deliver when it counts.
