@@ -1,13 +1,63 @@
-# 👋 Hi, I’m Ntando Badla
+👋 Hi, I'm Ntando Badla
 
-- 👨‍🎓 I’m a graduate in ICT: Application Development from Walter Sisulu University.
-- 💻 I’m an aspiring software developer passionate about building real-world solutions.
-- 🚀 I’m constantly growing my skills in software engineering and modern development practices.
-- 🛠️ **Tech Stack:**  
-  - **Languages:** Java, PHP, HTML, CSS, JavaScript   
-  - **Databases:** MySQL,  
-  - **Tools & Platforms:**  GitHub, Visual Studio Code 
-- 🤝 I’m open to collaborating on software projects, especially in web or mobile development.
-- 📫 How to reach me: **ntandobadla1@gmail.com**
-- 😄 Pronouns: He/Him
-- 💡 Fun fact: I'm a quiet thinker and sometimes a bit lazy—but I always deliver when it counts.
+🎓 ICT: Application Development Graduate from Walter Sisulu University
+💻 Software Developer passionate about building real-world digital solutions that make life easier and more connected.
+🚀 Constantly learning and growing in modern web, mobile, and backend development.
+
+🧠 About Me
+
+I’m a quiet thinker and problem-solver who enjoys transforming ideas into working systems.
+I may take my time — but I always deliver when it counts. 💡
+I’m currently focused on creating impactful software solutions for startups, students, and local businesses.
+
+🛠️ Tech Stack
+
+Languages:
+Java, PHP, JavaScript, TypeScript, HTML, CSS
+
+Frameworks & Libraries:
+React, Laravel, Tailwind CSS, Node.js, .NET MAUI
+
+Databases:
+MySQL, Supabase, Firebase
+
+Tools & Platforms:
+GitHub, Visual Studio Code, XAMPP, Netlify, Vercel
+
+💼 What I’ve Built
+
+Here are some of the projects and systems I’ve developed:
+
+🧮 Multi-Functional Calculator App – Includes basic, loan, GPA, and currency converters built using Java and modern UI components.
+
+🧑‍🎓 Student Management System – A React + Laravel web app with image upload, validation, and CRUD operations.
+
+🍟 Seedo Fries – A web-based food ordering system with login, signup, and database integration using PHP and MySQL.
+
+🚚 Courier Portal System – A delivery management platform where couriers can log in, view delivery history, and update details.
+
+🏫 University Business Marketplace (In Progress) – A system for university-based entrepreneurs to create shop profiles, list products, and sell within the campus ecosystem.
+
+🤝 Let’s Collaborate
+
+I’m open to collaborating on projects involving:
+
+Web Development (React, Laravel, PHP)
+
+Mobile Development (Java, .NET MAUI)
+
+Database Design & Integration
+
+System Development & API Connectivity
+
+📫 Get in Touch
+
+📧 Email: ntandobadla1@gmail.com
+
+💼 LinkedIn: (www.linkedin.com/in/ntandobadla)
+
+🌐 Portfolio: (ntando.netlify.app)
+
+⚡ Fun Fact
+
+I’m a calm and creative builder — I love turning challenges into working solutions, one line of code at a time.
