@@ -32,8 +32,6 @@ Here are some of the projects and systems I’ve developed:
 
 🧑‍🎓 Student Management System – A React + Laravel web app with image upload, validation, and CRUD operations.
 
-🍟 Seedo Fries – A web-based food ordering system with login, signup, and database integration using PHP and MySQL.
-
 🚚 Courier Portal System – A delivery management platform where couriers can log in, view delivery history, and update details.
 
 🏫 University Business Marketplace (In Progress) – A system for university-based entrepreneurs to create shop profiles, list products, and sell within the campus ecosystem.
