@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ntando Badla</h1>
-<h3 align="center">Software Developer | ICT: Application Development Graduate, Walter Sisulu University</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Developer;ICT%3A+Application+Development+Graduate;Building+real-world+digital+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ntandobadla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ntandobadla">
+    <img src="https://img.shields.io/github/followers/ntandobadla?label=Follow&style=social" alt="GitHub follow" />
+  </a>
   <a href="https://www.linkedin.com/in/ntandobadla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -24,10 +30,15 @@ I'm a software developer who enjoys turning ideas into working, real-world syste
 - 💻 Passionate about building digital solutions that make life easier and more connected
 - 🧠 A quiet thinker and problem-solver — I take my time, but I always deliver
 - 📚 Constantly learning and growing in modern web, mobile, and backend technologies
+- 🌱 Currently focused on: full-stack web development, mobile apps with .NET MAUI, and API-driven system design
 
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,react,laravel,tailwind,nodejs,dotnet,mysql,supabase,firebase,github,vscode,netlify,vercel" alt="Skill icons" />
+</p>
 
 **Languages**
 
@@ -70,6 +81,19 @@ I'm a software developer who enjoys turning ideas into working, real-world syste
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntandobadla&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntandobadla&theme=default" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntandobadla&layout=compact&theme=default" alt="Top languages" height="165" />
+</p>
+
+---
+
 ### 💼 What I've Built
 
 | Project | Description |
@@ -78,6 +102,17 @@ I'm a software developer who enjoys turning ideas into working, real-world syste
 | 🧑‍🎓 **Student Management System** | A React + Laravel web app with image upload, validation, and full CRUD operations |
 | 🚚 **Courier Portal System** | A delivery management platform where couriers log in, view delivery history, and update details |
 | 🏫 **University Business Marketplace** *(in progress)* | A platform for university-based entrepreneurs to create shop profiles, list products, and sell within the campus ecosystem |
+
+**📌 Featured repos:**
+
+<p>
+  <a href="https://github.com/ntandobadla/student-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntandobadla&repo=student-management-system" alt="Student Management System" />
+  </a>
+  <a href="https://github.com/ntandobadla/courier-portal-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntandobadla&repo=courier-portal-system" alt="Courier Portal System" />
+  </a>
+</p>
 
 ---
 
