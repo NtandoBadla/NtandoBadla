@@ -1,61 +1,111 @@
-👋 Hi, I'm Ntando Badla
+<h1 align="center">Hi 👋, I'm Ntando Badla</h1>
+<h3 align="center">Software Developer | ICT: Application Development Graduate, Walter Sisulu University</h3>
 
-🎓 ICT: Application Development Graduate from Walter Sisulu University
-💻 Software Developer passionate about building real-world digital solutions that make life easier and more connected.
-🚀 Constantly learning and growing in modern web, mobile, and backend development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ntandobadla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/ntandobadla">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ntando.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ntandobadla1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-🧠 About Me
+---
 
-I’m a quiet thinker and problem-solver who enjoys transforming ideas into working systems.
-I may take my time — but I always deliver when it counts. 💡
-I’m currently focused on creating impactful software solutions for startups, students, and local businesses.
+### 🚀 About Me
 
-🛠️ Tech Stack
+I'm a software developer who enjoys turning ideas into working, real-world systems. I take a measured, thoughtful approach to problem-solving and am currently focused on building impactful software for startups, students, and local businesses across web, mobile, and backend development.
 
-Languages:
-Java, PHP, JavaScript, TypeScript, HTML, CSS
+- 🎓 ICT: Application Development graduate, Walter Sisulu University
+- 💻 Passionate about building digital solutions that make life easier and more connected
+- 🧠 A quiet thinker and problem-solver — I take my time, but I always deliver
+- 📚 Constantly learning and growing in modern web, mobile, and backend technologies
 
-Frameworks & Libraries:
-React, Laravel, Tailwind CSS, Node.js, .NET MAUI
+---
 
-Databases:
-MySQL, Supabase, Firebase
+### 🛠️ Tech Stack
 
-Tools & Platforms:
-GitHub, Visual Studio Code, XAMPP, Netlify, Vercel
+**Languages**
 
-💼 What I’ve Built
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-Here are some of the projects and systems I’ve developed:
+**Frameworks & Libraries**
 
-🧮 Multi-Functional Calculator App – Includes basic, loan, GPA, and currency converters built using Java and modern UI components.
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+</p>
 
-🧑‍🎓 Student Management System – A React + Laravel web app with image upload, validation, and CRUD operations.
+**Databases**
 
-🚚 Courier Portal System – A delivery management platform where couriers can log in, view delivery history, and update details.
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-🏫 University Business Marketplace (In Progress) – A system for university-based entrepreneurs to create shop profiles, list products, and sell within the campus ecosystem.
+**Tools & Platforms**
 
-🤝 Let’s Collaborate
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-I’m open to collaborating on projects involving:
+---
 
-Web Development (React, Laravel, PHP)
+### 💼 What I've Built
 
-Mobile Development (Java, .NET MAUI)
+| Project | Description |
+|---|---|
+| 🧮 **Multi-Functional Calculator App** | Basic, loan, GPA, and currency converters built with Java and modern UI components |
+| 🧑‍🎓 **Student Management System** | A React + Laravel web app with image upload, validation, and full CRUD operations |
+| 🚚 **Courier Portal System** | A delivery management platform where couriers log in, view delivery history, and update details |
+| 🏫 **University Business Marketplace** *(in progress)* | A platform for university-based entrepreneurs to create shop profiles, list products, and sell within the campus ecosystem |
 
-Database Design & Integration
+---
 
-System Development & API Connectivity
+### 🤝 Let's Collaborate
 
-📫 Get in Touch
+I'm open to collaborating on projects involving:
 
-📧 Email: ntandobadla1@gmail.com
+- Web Development (React, Laravel, PHP)
+- Mobile Development (Java, .NET MAUI)
+- Database Design & Integration
+- System Development & API Connectivity
 
-💼 LinkedIn: (www.linkedin.com/in/ntandobadla)
+---
 
-🌐 Portfolio: (ntando.netlify.app)
+### 📫 Get in Touch
 
-⚡ Fun Fact
+<p>
+  <a href="mailto:ntandobadla1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ntandobadla1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ntandobadla">
+    <img src="https://img.shields.io/badge/LinkedIn-ntandobadla-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ntando.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-ntando.netlify.app-FF5722?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-I’m a calm and creative builder — I love turning challenges into working solutions, one line of code at a time.
+---
+
+<p align="center"><i>⚡ Fun fact: I'm a calm and creative builder — turning challenges into working solutions, one line of code at a time.</i></p>
