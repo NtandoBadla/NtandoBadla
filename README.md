@@ -24,11 +24,13 @@
 
 ### 🚀 About Me
 
-I'm a software developer who enjoys turning ideas into working, real-world systems. I take a measured, thoughtful approach to problem-solving and am currently focused on building impactful software for startups, students, and local businesses across web, mobile, and backend development.
+I'm a software developer who enjoys turning ideas into working, real-world systems. I take a measured, thoughtful approach to problem-solving and am currently focused on building impactful software for businesses, schools, and public sector organizations through web, mobile, and backend development.
 
 - 🎓 ICT: Application Development graduate, Walter Sisulu University
-- 💻 Passionate about building digital solutions that make life easier and more connected
-- 🧠 A quiet thinker and problem-solver — I take my time, but I always deliver
+- 💻 Passionate about building digital solutions that solve real-world problems
+- 🚆 Building smart transportation solutions for public transit systems
+- 🖥️ Experienced in IT support, technical troubleshooting, and system administration
+- 🏫 Developing educational management systems for schools and institutions
 - 📚 Constantly learning and growing in modern web, mobile, and backend technologies
 - 🌱 Currently focused on: full-stack web development, mobile apps with .NET MAUI, and API-driven system design
 
@@ -98,20 +100,19 @@ I'm a software developer who enjoys turning ideas into working, real-world syste
 
 | Project | Description |
 |---|---|
-| 🧮 **Multi-Functional Calculator App** | Basic, loan, GPA, and currency converters built with Java and modern UI components |
-| 🧑‍🎓 **Student Management System** | A React + Laravel web app with image upload, validation, and full CRUD operations |
-| 🚚 **Courier Portal System** | A delivery management platform where couriers log in, view delivery history, and update details |
-| 🏫 **University Business Marketplace** *(in progress)* | A platform for university-based entrepreneurs to create shop profiles, list products, and sell within the campus ecosystem |
+| 🚆 **PRASA Smart Rail Passenger Information System** | A smart railway platform that provides online ticket booking, train schedules, real-time train tracking, delay notifications, crowding predictions, digital ticket validation, and passenger feedback management to improve commuter experiences. |
+| 🖥️ **IT Support Specialist Capstone Project** | An IT support management solution featuring incident reporting, ticket management, troubleshooting workflows, user support tracking, and knowledge base access to improve organizational support services. |
+| 🏫 **Amandla High School Management System** | A school management platform designed to manage student registration, attendance, academic records, teacher information, communication, and administrative operations. |
+| 🧑‍🎓 **Student Management System** | A React + Laravel web application with image uploads, validation, CRUD functionality, and student record management. |
+| 🧮 **Multi-Functional Calculator App** | A utility application featuring GPA calculations, loan calculations, currency conversion, unit conversion, discount calculations, and other useful tools. |
+| 🚚 **Courier Delivery Management System** | A delivery management platform where couriers can manage deliveries, view delivery history, update personal details, and monitor delivery statuses. |
 
-**📌 Featured repos:**
+**📌 Featured Projects**
 
-<p>
-  <a href="https://github.com/ntandobadla/student-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntandobadla&repo=student-management-system" alt="Student Management System" />
-  </a>
-  <a href="https://github.com/ntandobadla/courier-portal-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntandobadla&repo=courier-portal-system" alt="Courier Portal System" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Featured%20Project-PRASA%20Smart%20Rail%20System-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Featured%20Project-IT%20Support%20Specialist-28A745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Featured%20Project-Amandla%20High%20School%20System-FF9800?style=for-the-badge" />
 </p>
 
 ---
@@ -121,8 +122,11 @@ I'm a software developer who enjoys turning ideas into working, real-world syste
 I'm open to collaborating on projects involving:
 
 - Web Development (React, Laravel, PHP)
-- Mobile Development (Java, .NET MAUI)
+- Mobile Development (.NET MAUI, Java)
 - Database Design & Integration
+- IT Support Solutions
+- Educational Management Systems
+- Transportation & Logistics Systems
 - System Development & API Connectivity
 
 ---
@@ -143,4 +147,4 @@ I'm open to collaborating on projects involving:
 
 ---
 
-<p align="center"><i>⚡ Fun fact: I'm a calm and creative builder — turning challenges into working solutions, one line of code at a time.</i></p>
+<p align="center"><i>⚡ Turning ideas into practical software solutions that create real-world impact.</i></p>
