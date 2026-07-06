@@ -141,7 +141,7 @@ I'm open to collaborating on projects involving:
     <img src="https://img.shields.io/badge/LinkedIn-ntandobadla-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ntando.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-ntando.netlify.app-FF5722?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ntandobadla.co.za-FF5722?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
